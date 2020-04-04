@@ -8,7 +8,7 @@
 
 title: TestAI
 description: Data scientists can build models. Thats good. How do you know that they will perform well in production? How users will use it? What is applicatin quality? This is blog that tries to answer questions about uncertinities that ml models deals with before they put into dark sea of real world. 
-url: "https://Riyaj-Shaikh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://testai.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
@@ -33,7 +33,7 @@ baseurl: "/TestAI" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: riyajshaikh
+    twitter: @riyajshaikh
     github: Riyaj-Shaikh
 
 # Set this to true to get LaTeX math equation support
