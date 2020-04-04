@@ -6,15 +6,10 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
-github_username: Riyaj-Shaikh
-# you can comment the below line out if your repo name is not different than your baseurl
-github_repo: "TestAI"
-
-# OPTIONAL: override baseurl and url if using a custom domain
-# Note: leave out the trailing / from this value. 
-url: "https://Riyaj-Shaikh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+title: TestAI
+description: I heard that data scientists can build models. Thats good. How do you know that they will perform well in production? How users will use it? 
+What is applicatin quality? This is blog that tries to answer questions about uncertinities that ml models deals with before they put into dark sea of real world. 
+url: "https://testai.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
@@ -40,7 +35,7 @@ baseurl: "/TestAI" # the subpath of your site, e.g. "/blog".
 minima:
   social_links:
     twitter: fastdotai
-    github: fastai
+    github: @riyajshaikh
 
 # Set this to true to get LaTeX math equation support
 use_math: 
