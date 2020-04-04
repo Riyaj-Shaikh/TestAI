@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: TestAI
-description: I heard that data scientists can build models. Thats good. How do you know that they will perform well in production? How users will use it? What is applicatin quality? This is blog that tries to answer questions about uncertinities that ml models deals with before they put into dark sea of real world. 
+description: Data scientists can build models. Thats good. How do you know that they will perform well in production? How users will use it? What is applicatin quality? This is blog that tries to answer questions about uncertinities that ml models deals with before they put into dark sea of real world. 
 url: "https://Riyaj-Shaikh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 ###########################################################
